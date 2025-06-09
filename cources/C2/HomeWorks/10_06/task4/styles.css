@@ -1,0 +1,16 @@
+#all{
+    text-align: center;
+    border: 1px solid;
+    margin: 10px;
+    list-style-position: inside;
+}
+
+#buttons{
+    text-align: right;
+    display: flex;
+    flex-direction: column;
+}
+
+button{
+    margin: 10px 10px 0px 10px;
+}
